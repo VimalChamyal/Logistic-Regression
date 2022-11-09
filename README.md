@@ -1,6 +1,6 @@
 # Logistic-Regression
 
-Checkout my projects here, which utilize the most popular ML algo for classification problems - Logistic Regression. The projects demonstrate my solid understanding of Exploratory Data Analysis, Logistic Regression etc...
+Checkout my projects here, which utilize the most popular ML algo for classification problems - Logistic Regression. The projects demonstrate my solid understanding of Exploratory Data Analysis, Logistic Regression, Data preprocessing etc...
 
 The projects that I have made are as follows :
 
