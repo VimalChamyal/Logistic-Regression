@@ -2,7 +2,7 @@
 
 Checkout my projects here, which utilize the most popular ML algo for classification problems - Logistic Regression. The projects demonstrate my solid understanding of Exploratory Data Analysis, Logistic Regression, Data preprocessing etc...
 
-The projects that I have made are as follows :
+The projects that I have made are as follows:
 
 1. Iris Flower Classification Project (Iris_Classification.ipynb)
 2. Gender Classification (Gender_Classification.ipynb)
